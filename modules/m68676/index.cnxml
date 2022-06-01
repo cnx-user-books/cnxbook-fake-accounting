@@ -1,0 +1,627 @@
+<document xmlns="http://cnx.rice.edu/cnxml" class="appendix">
+
+<title>Present Values Table Set Rotated (Landscaped at 90°) as Art and Table</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68676</md:content-id>
+  <md:title>Present Values Table Set Rotated (Landscaped at 90°) as Art and Table</md:title>
+  <md:abstract/>
+  <md:uuid>5a52559c-4234-4f1f-90df-274ce96eb68f</md:uuid>
+</metadata>
+
+<content class="appendix">
+<figure id="fs-id1163543855555" class="landscape"><title>Present Value Table as Art.</title><media id="dog_on_couch" alt="alt text"><image mime-type="image/png" src="../../media/presrot.png"/></media><caption>This is a grab of the OSX-provided Present Value Table, as opposed to art rendered by a vendor. The grab has been shrunk to fit the 6.5” limit. </caption></figure><table id="eip-940" class="landscape" summary="Sample alt text.">
+<tgroup cols="21"><colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+    <colspec colnum="5" colname="c5"/>
+    <colspec colnum="6" colname="c6"/>
+    <colspec colnum="7" colname="c7"/>
+    <colspec colnum="8" colname="c8"/>
+    <colspec colnum="9" colname="c9"/>
+    <colspec colnum="10" colname="c10"/>
+    <colspec colnum="11" colname="c11"/>
+    <colspec colnum="12" colname="c12"/>
+    <colspec colnum="13" colname="c13"/>
+    <colspec colnum="14" colname="c14"/>
+    <colspec colnum="15" colname="c15"/>
+    <colspec colnum="16" colname="c16"/>
+<colspec colnum="17" colname="c17"/>
+    <colspec colnum="18" colname="c18"/>
+    <colspec colnum="19" colname="c19"/>
+<colspec colnum="20" colname="c20"/>
+    <colspec colnum="21" colname="c21"/>
+
+<thead>
+<row>
+<entry namest="c1" nameend="c21" align="center">Present Value Table as Data</entry>
+</row><row>
+    <entry align="center">Periods</entry>
+    <entry align="center">1%</entry>
+    <entry align="center">2%</entry>
+    <entry align="center">3%</entry>
+    <entry align="center">4%</entry>
+    <entry align="center">5%</entry>
+    <entry align="center">6%</entry>
+    <entry align="center">7%</entry>
+    <entry align="center">8%</entry>
+    <entry align="center">9%</entry>
+    <entry align="center">10%</entry>
+    <entry align="center">11%</entry>
+    <entry align="center">12%</entry>
+    <entry align="center">13%</entry>
+    <entry align="center">14%</entry>
+    <entry align="center">15%</entry>
+    <entry align="center">16%</entry>
+    <entry align="center">17%</entry>
+    <entry align="center">18%</entry>
+    <entry align="center">19%</entry>
+    <entry align="center">20%</entry>
+  </row></thead><tbody>
+
+  <row>
+    <entry align="center">1</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+  </row>
+  <row>    <entry align="center">2</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+  </row>
+  <row>    <entry align="center">3</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+  </row>
+  <row>    <entry align="center">4</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+  </row>
+  <row>    <entry align="center">5</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+  </row>
+  <row>    <entry align="center">6</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+  </row>
+  <row>
+    <entry align="center">7</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+  </row>
+  <row>    <entry align="center">8</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+  </row>
+  <row>    <entry align="center">9</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+  </row>
+  <row>    <entry align="center">10</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+  </row>
+  <row>    <entry align="center">11</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+  </row>
+  <row>    <entry align="center">12</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+  </row>
+  <row>
+    <entry align="center">13</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+  </row>
+  <row>    <entry align="center">14</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+    <entry align="right">0.8701</entry>
+  </row>
+  <row>    <entry align="center">15</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+    <entry align="right">0.7667</entry>
+  </row>
+  <row>    <entry align="center">16</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+    <entry align="right">0.9254</entry>
+  </row>
+  <row>    <entry align="center">17</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+  </row>
+  <row>    <entry align="center">18</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+    <entry align="right">0.9508</entry>
+  </row>
+  <row>    <entry align="center">19</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+  </row>
+  <row>    <entry align="center">20</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+  </row>
+  <row>    <entry align="center">21</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+  </row>
+  <row>    <entry align="center">22</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+  </row>
+  <row>    <entry align="center">23</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+  </row>
+  <row>    <entry align="center">24</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+  </row>
+  <row>    <entry align="center">25</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+    <entry align="right">0.9873</entry>
+  </row>
+</tbody>
+
+
+
+
+
+
+
+
+</tgroup><caption>This is the text and data of the Present Value Table to see how the platform would output this content in portrait orientation with 6.5” width. The periods column and header row are center aligned, and the numeric data is right aligned. </caption>
+</table></content>
+
+</document>
